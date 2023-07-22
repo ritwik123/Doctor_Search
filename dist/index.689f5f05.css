@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  --font-lato: Lato;
+  --font-dm-sans: "DM Sans";
+  --font-montserrat: Montserrat;
+  --font-lexend-tera: "Lexend Tera";
+  --font-poppins: Poppins;
+  --font-size-xl: 20px;
+  --font-size-17xl: 36px;
+  --color-whitesmoke: #ececec;
+  --color-gray-100: #000000b3;
+  --color-darkslategray: #333;
+  --color-white: #fff;
+  --color-teal: #007e85;
+  --color-black: #000;
+  --color-olivedrab: #47a5c4;
+  --padding-smi: 13px;
+  --padding-21xl: 40px;
+  --br-5xs: 8px;
+}
+
+/*# sourceMappingURL=index.689f5f05.css.map */
